@@ -11,18 +11,14 @@ Hey, i'm Dennis Heinrich, currently 23 years old and based near Hamburg, Germany
 * [steam](https://www.twitch.tv/cloudmaker97)
 * [mail](mailto:dennis.heinrich@posteo.de)
 
-<!--
-**dennis-heinrich/dennis-heinrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p class="center">
+  <a href="https://cloudmaker97.tk">
+      <img src="https://img.shields.io/website?down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fcloudmaker97.tk">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+  <a href="https://www.twitch.tv/cloudmaker97">
+      <img src="https://img.shields.io/twitch/status/cloudmaker97?style=for-the-badge">
+  </a>
+</p>
