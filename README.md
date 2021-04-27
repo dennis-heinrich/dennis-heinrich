@@ -3,7 +3,7 @@ Hey, i'm Dennis Heinrich, currently 23 years old and based near Hamburg, Germany
 
 ## Featured
 * [more projects](https://github.com/cloudmaker97)
-* [personal website](https://cloudmaker97.tk)
+* [personal website](https://cloudmaker97.de)
 
 ## Socials
 * [twitter](https://twitter.com/cloudmaker97)
