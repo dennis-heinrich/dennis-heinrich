@@ -1,15 +1,12 @@
 ### Dennis Heinrich
 Hey, i'm Dennis Heinrich, currently 23 years old and based near Hamburg, Germany. In my spare time i like to write code and help other peoples as voluntary firefighter. If you need help or have any kind of questions dont hesitate to contact me. I write code since i am 12 years old and began with PHP. Meanwhile i like to use Javascript/Typescript, Angular, Symfony and made my experiences with it.
 
-## Featured
-* [selfhosted gitlab](https://go.cloudmaker97.de/gitlab)
-
-## Socials
+## Socials & stuff
 * [website](https://go.cloudmaker97.de/start)
 * [twitter](https://go.cloudmaker97.de/twitter)
 * [twitch](https://go.cloudmaker97.de/twitch)
 * [mail](https://go.cloudmaker97.de/posteo)
-
+* [gitlab](https://go.cloudmaker97.de/gitlab)
 
 <p class="center">
   <a href="https://cloudmaker97.de">
