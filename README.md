@@ -1,7 +1,5 @@
 ### Dennis Heinrich
-Hey, i'm Dennis Heinrich, currently 23 years old and based near Hamburg, Germany. 
-
-In my spare time i like to write code and help other peoples as voluntary firefighter. 
+**Hey, i'm Dennis Heinrich**, currently 23 years old and based near Hamburg, Germany. In my spare time i like to write code and help other peoples as voluntary firefighter. 
 If you need help or have any kind of questions dont hesitate to contact me. 
 
 ## Socials & stuff
