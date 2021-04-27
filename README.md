@@ -1,5 +1,8 @@
 ### Dennis Heinrich
-Hey, i'm Dennis Heinrich, currently 23 years old and based near Hamburg, Germany. In my spare time i like to write code and help other peoples as voluntary firefighter. If you need help or have any kind of questions dont hesitate to contact me. I write code since i am 12 years old and began with PHP. Meanwhile i like to use Javascript/Typescript, Angular, Symfony and made my experiences with it.
+Hey, i'm Dennis Heinrich, currently 23 years old and based near Hamburg, Germany. 
+
+In my spare time i like to write code and help other peoples as voluntary firefighter. 
+If you need help or have any kind of questions dont hesitate to contact me. 
 
 ## Socials & stuff
 * [website](https://go.cloudmaker97.de/start)
